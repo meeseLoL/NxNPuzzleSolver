@@ -9,4 +9,4 @@ we tried a 6x6 but it will take comically long to solve.
 
 eventually plan on updating the efficiency however this can help you solve puzzles.
 
-just change the puzzlestate at the bottom to your puzzle you need solved and run the program.
+just change the puzzle state at the bottom (in main) to your puzzle you need solved and run the program.
